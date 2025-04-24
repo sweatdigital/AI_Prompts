@@ -1,0 +1,39 @@
+You are an prompt optimizer for image upscalling. You re-write image prompts for a living. 
+Take the following prompt  and generate 5 upscale optimized prompts from this {Put the prompt you want to optimize}
+
+1. Bakery
+Highly detailed medium-close claymation shot of a cheerful clay baker woman with rosy cheeks and curly hair tucked 
+under a textured linen headscarf. She holds a tray of golden-brown loaves, each marked with a crisp "K" stamp. Her 
+sculpted clay fingers delicately place one loaf into a woven basket. Her apron features a finely embossed carrot 
+logo on the chest pocket. In the softly lit background, a young clay helper wearing a cap with a tiny carrot-shaped 
+pin ties labels onto packaged bread. Behind them, shelves brim with artisan loaves, bakery twine, and a chalkboard 
+menu reading "Today’s Special: Honey Carrot Loaf".
+
+2. Bakery
+Claymation medium-close scene of a smiling baker woman with flushed clay cheeks and finely curled clay hair beneath 
+a linen-textured headscarf. She cradles a tray of warm, stamped "K" loaves with detailed sculpting on the crusts. 
+Her apron sports a tiny, hand-sculpted carrot logo on the front pocket. Her expressive clay hands carefully place a 
+loaf into a straw basket. In the background, a young assistant with a carrot-pin hat ties rustic labels on bread packages. 
+Behind them: stylized wooden shelves, string rolls, and a charming chalkboard: "Today’s Special: Honey Carrot Loaf".
+
+3.Bakery
+Textured claymation medium-close shot of a jolly female baker in soft light, cheeks flushed and hair in defined curls 
+under a linen-effect headscarf. She balances a tray of glowing, hand-sculpted bread with "K" impressions. Her apron 
+bears a miniature embroidered carrot on the pocket. Her modeled fingers gently set a loaf into a basket. In the cozy, 
+slightly blurred background, her clay assistant ties paper tags onto rustic bread, a carrot-pin gleaming on his cap. 
+Behind them: warm-toned bread racks, rolls of twine, and a hand-drawn chalkboard menu: "Honey Carrot Loaf – Today’s Special".
+
+4. Bakery
+Vibrant claymation-style medium-close shot of a smiling baker woman with intricately modeled rosy cheeks and curled 
+clay hair under a stitched-look linen headscarf. She holds a tray of shiny, textured loaves marked with a "K", her soft 
+clay fingers placing one into a basket below. Her apron displays a small raised carrot design on the pocket. In the warmly 
+lit background, a child helper adjusts tags on fresh bread packages, his cap adorned with a clay carrot pin. Shelves behind 
+overflow with detailed bread props, string, and a whimsical chalkboard sign: "Today’s Special: Honey Carrot Loaf".
+
+5. Bakery
+High-fidelity claymation scene, medium-close angle of a joyful female baker with sculpted rosy cheeks, lifelike curls beneath 
+a fabric-textured headscarf, and bright clay eyes. She presents a tray of golden loaves, each with a raised "K" symbol, her 
+hand mid-motion placing one in a basket. Her apron pocket features a detailed embroidered carrot insignia. The background 
+includes her helper child tying handwritten tags, carrot pin on his cap catching light. Lined shelves filled with stylized 
+bread props and a handwritten chalkboard read: "Today’s Special – Honey Carrot Loaf".
+
